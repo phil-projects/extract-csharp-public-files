@@ -23,6 +23,10 @@ namespace ECPF
         public MainWindow()
         {
             InitializeComponent();
+
+
+
+            //this is something
         }
     }
 }
