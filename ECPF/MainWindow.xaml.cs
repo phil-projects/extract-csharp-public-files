@@ -14,7 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace ECPF
-{
+{ 
     /// <summary>
     /// MainWindow.xaml 的交互逻辑
     /// </summary>
